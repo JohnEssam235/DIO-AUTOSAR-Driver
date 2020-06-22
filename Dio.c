@@ -1,13 +1,4 @@
- /******************************************************************************
- *
- * Module: Dio
- *
- * File Name: Dio.c
- *
- * Description: Source file for Dio Module.
- *
- * Author: Mohamed Tarek
- ******************************************************************************/
+
 
 #include "Dio.h"
 #include "Dio_Regs.h"
