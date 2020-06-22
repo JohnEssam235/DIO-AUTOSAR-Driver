@@ -1,13 +1,4 @@
- /******************************************************************************
- *
- * Module: Dio
- *
- * File Name: Dio_Cfg.h
- *
- * Description: Pre-Compile Configuration Header file for Dio Module.
- *
- * Author: Mohamed Tarek
- ******************************************************************************/
+
 
 #ifndef DIO_CFG_H
 #define DIO_CFG_H
