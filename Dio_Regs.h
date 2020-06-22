@@ -1,13 +1,4 @@
- /******************************************************************************
- *
- * Module: Dio
- *
- * File Name: Dio_Regs.h
- *
- * Description: Header file for Dio Module Registers.
- *
- * Author: Mohamed Tarek
- ******************************************************************************/
+
 
 #ifndef DIO_REGS_H
 #define DIO_REGS_H
