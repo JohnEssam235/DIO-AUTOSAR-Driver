@@ -1,19 +1,10 @@
- /******************************************************************************
- *
- * Module: Dio
- *
- * File Name: Dio.h
- *
- * Description: Header file for Dio Module.
- *
- * Author: Mohamed Tarek
- ******************************************************************************/
+
 
 #ifndef DIO_H
 #define DIO_H
 
 /* Id for the company in the AUTOSAR
- * for example Mohamed Tarek's ID = 1000 :) */
+ * for example John's ID = 1000 :) */
 #define DIO_VENDOR_ID    (1000U)
 
 /* Dio Module Id */
