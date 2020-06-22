@@ -1,13 +1,4 @@
- /******************************************************************************
- *
- * Module: Dio
- *
- * File Name: Dio_PBcfg.c
- *
- * Description: Post Build Configuration Source file for Dio Module.
- *
- * Author: Mohamed Tarek
- ******************************************************************************/
+
 
 #include "Dio.h"
 
