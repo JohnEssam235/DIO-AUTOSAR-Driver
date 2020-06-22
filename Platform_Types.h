@@ -1,20 +1,10 @@
- /******************************************************************************
- *
- * Module: Common - Platform Abstraction
- *
- * File Name: Platform_Types.h
- *
- * Description: Platform types for AVR
- *
- * Author: Mohamed Tarek
- *
- *******************************************************************************/
+
 
 #ifndef PLATFORM_TYPES_H
 #define PLATFORM_TYPES_H
 
 /* Id for the company in the AUTOSAR
- * for example Mohamed Tarek's ID = 1000 :) */
+ * for example John's ID = 1000 :) */
 #define PLATFORM_VENDOR_ID                          (1000U)
 
 /*
