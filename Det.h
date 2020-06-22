@@ -1,19 +1,9 @@
- /******************************************************************************
- *
- * Module: Det
- *
- * File Name: Det.h
- *
- * Description:  Det stores the development errors reported by other modules.
- *
- * Author: Mohamed Tarek
- ******************************************************************************/
 
 #ifndef DET_H
 #define DET_H
 
 /* Id for the company in the AUTOSAR
- * for example Mohamed Tarek's ID = 1000 :) */
+ * for example John's ID = 1000 :) */
 #define DET_VENDOR_ID                 (1000U)
 
 /* Det Module Id */
